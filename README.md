@@ -1,4 +1,4 @@
-[![DebugTheWorld](https://imgur.com/FUi5NMc.png)]
+[![DebugTheWorld](https://imgur.com/FUi5NMc.png)
 # Debug the World!
 
 ## Run locally
